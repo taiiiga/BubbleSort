@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vC+4A4PAfPd0nmUU9SXZRYRNXGb60Eo0Di8vnR4Wh5uw6zAZyTbpkl2qjTXV5g9swQg7I4PDoOzceIg3CvUtDw==",
+  "success": true,
+  "projectFilePath": "F:\\Rider Projects\\BubbleSort\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blank\\.nuget\\packages\\fsharp.core\\6.0.0\\fsharp.core.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

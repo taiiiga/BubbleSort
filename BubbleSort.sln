@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{37216570-7723-4952-862D-27BF1607545C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TopLibrary", "..\TopLibrary\TopLibrary\TopLibrary.fsproj", "{5040887D-9142-42BB-A3FC-CD3907CBCAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37216570-7723-4952-862D-27BF1607545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37216570-7723-4952-862D-27BF1607545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37216570-7723-4952-862D-27BF1607545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37216570-7723-4952-862D-27BF1607545C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5040887D-9142-42BB-A3FC-CD3907CBCAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5040887D-9142-42BB-A3FC-CD3907CBCAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5040887D-9142-42BB-A3FC-CD3907CBCAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5040887D-9142-42BB-A3FC-CD3907CBCAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
