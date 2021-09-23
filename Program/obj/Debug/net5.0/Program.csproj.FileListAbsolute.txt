@@ -21,8 +21,6 @@ F:\Rider Projects\BubbleSort\Program\bin\Debug\net5.0\tr\FSharp.Core.resources.d
 F:\Rider Projects\BubbleSort\Program\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
 F:\Rider Projects\BubbleSort\Program\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
 F:\Rider Projects\BubbleSort\Program\bin\Debug\net5.0\TopLibrary.dll
-F:\Rider Projects\BubbleSort\Program\bin\Debug\net5.0\TopLibrary.pdb
-F:\Rider Projects\BubbleSort\Program\bin\Debug\net5.0\TopLibrary.xml
 F:\Rider Projects\BubbleSort\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
 F:\Rider Projects\BubbleSort\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
 F:\Rider Projects\BubbleSort\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
